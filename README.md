@@ -1,0 +1,2 @@
+# BC_AI_models_in_applied_industrial_organizational_psychology
+Beyza Ceylan's AI Models in Applied Industrial Organizational Psychology
